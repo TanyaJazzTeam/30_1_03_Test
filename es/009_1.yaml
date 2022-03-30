@@ -4,7 +4,7 @@ my:
     composition:
       dough:
       - huevos
-      - 
+      - sugar
       - harina
       cream:
       - azúcar
